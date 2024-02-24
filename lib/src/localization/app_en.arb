@@ -1,0 +1,6 @@
+{
+  "appTitle": "sOTPwatch",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
