@@ -1,0 +1,7 @@
+{
+  "appTitle": "sOTPwatch",
+  "startButtonLabel": "Start",
+  "pauseButtonLabel": "Pause",
+  "resetButtonLabel": "Reset",
+  "lapButtonLabel": "Lap"
+}

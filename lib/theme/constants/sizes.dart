@@ -20,7 +20,7 @@ class CSizes {
   static const fontSizeLg = 18.0;
 
   // Buttons
-  static const buttonWidth = 120.0;
+  static const buttonWidth = 100.0;
   static const buttonWidthWide = 240.0;
   static const buttonHeight = 18.0;
   static const buttonRadius = 12.0;

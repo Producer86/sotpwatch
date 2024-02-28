@@ -1,0 +1,7 @@
+{
+  "appTitle": "sOTPwatch",
+  "startButtonLabel": "Start",
+  "pauseButtonLabel": "Szünet",
+  "resetButtonLabel": "Reset",
+  "lapButtonLabel": "Köridő"
+}
